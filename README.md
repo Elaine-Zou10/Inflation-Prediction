@@ -1,5 +1,3 @@
-# Inflation-Prediction
-ASRM 539
 # Nowcasting Inflation under Structural Shocks
 *A MIDAS and Machine Learning Approach*
 
