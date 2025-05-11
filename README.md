@@ -34,4 +34,3 @@ This project explores real-time inflation prediction using a hybrid framework th
 - Random Forest achieved the best performance.
 - Tree-based models significantly outperformed linear regression, suggesting nonlinear effects in inflation dynamics.
 
-## Structure
